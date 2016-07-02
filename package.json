@@ -1,0 +1,24 @@
+{
+  "name": "table-mirror",
+  "version": "0.0.1",
+  "description": "fast deal with table DOM, table helper",
+  "main": "TableMirror.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wnow20/table-mirror.git"
+  },
+  "author": "wnow20",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wnow20/table-mirror/issues"
+  },
+  "homepage": "https://github.com/wnow20/table-mirror#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglyfly": "^1.4.2",
+    "lodash": "^4.13.1"
+  }
+}
